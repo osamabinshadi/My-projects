@@ -1,0 +1,26 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.color-highlight{
+    color: rgb(0, 255, 76);
+}
+p{
+    color: rgb(172, 159, 142);
+}
+.half-width{
+    width: 35%;
+    float: left;
+    margin: 5%;
+    padding: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: -webkit-linear-gradient(rgb(21, 245, 21), rgb(28, 167, 202) );
+    padding: 10px 20px;
+    border-radius: 8px;
+    color: white;
+    font-weight: bold;
+}
